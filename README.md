@@ -45,5 +45,7 @@ python main.py update 1 iPhone 13 Apple 1000 1
 
 
 # License
-#
 # This project is licensed under the MIT License.
+LINKS
+Git Hub....https://github.com/SylviaWakio/project-3-pm/tree/main
+NETLIFY.....https://app.netlify.com/sites/dynamic-naiad-c05ce2/overview
