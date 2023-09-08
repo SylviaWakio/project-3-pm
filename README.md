@@ -40,16 +40,9 @@
 #
 # python main.py delete 1
 
-# Contributing
+
 #
-# If you would like to contribute to this project, you can do so by following
-# these steps:
 #
-# 1. Fork the repository.
-# 2. Create a new branch for your changes.
-# 3. Make your changes and commit them.
-# 4. Push your changes to your branch.
-# 5. Create a pull request.
 
 # License
 #
